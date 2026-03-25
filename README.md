@@ -12,8 +12,8 @@ pip install urllib3
 pip install certifi
 pip install idna
 pip install pystyle
-git clone https://github.com/lubebansokheker/vip-obf.git
-cd vip-obf
+git clone https://github.com/lubebansokheker/ToolsObf.git
+cd ToolsObf
 python obf.py
 ```
 
